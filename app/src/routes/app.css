@@ -1,0 +1,12 @@
+@media print {
+    body, html {
+        margin: 0;
+    }
+}
+
+@page {
+    margin: 0;
+    /* std usa letter landscape */
+    /* landscape */
+    size: Letter landscape;
+}
